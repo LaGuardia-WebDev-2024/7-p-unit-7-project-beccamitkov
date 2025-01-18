@@ -1,15 +1,15 @@
 body {
-  background-color: black;
+  background-color: pink;
   text-align: center;
   color: white;
 }
 
 
 #myCanvas {
-  background-image: url("https://images.pexels.com/photos/1387577/pexels-photo-1387577.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+  background-image: url(https://i.pinimg.com/736x/cb/6e/16/cb6e16296a040bd954940c049ce82bc6.jpg);
   background-size: 400px;
   border-radius: 30px;
-  border: 1px solid rgb(255,245,227);
+  border: 6px dashed rgb(255,245,227);
 }
 
 .main{
@@ -18,3 +18,14 @@ body {
   justify-content: space-around;
 }
 
+#TheDiv {
+  display:inline-block;
+  width=500px
+  border-radius: 30px;
+  border: 5px dotted rgb (234,182,118);
+  text-align:center;
+  
+}
+
+ol{font-size: 15px;}
+h1{font-size:50px;}
